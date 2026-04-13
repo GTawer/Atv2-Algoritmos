@@ -1,0 +1,26 @@
+algoritmo "Calculador de IMC"
+
+// Disciplina: Lógica de Programação (LOPAL)
+
+// Professor: Raul Porto Lopes
+// Autor:Gabriel de Araujo Torres N°08
+// Data: 12/04/2026
+// Função: Calcular o IMC de uma pessoa
+
+var
+  celsius, fahrenheit : real
+
+inicio
+  // Entrada de dados
+  escreva("Digite a temperatura em Celsius (°C): ")
+  leia(celsius)
+
+  // Processamento
+  // Fórmula da conversão: F = (C * 9 / 5) + 32
+  fahrenheit <- (celsius * 9 / 5) + 32
+
+  // Saída de resultados
+
+  escreval("A temperatura em Fahrenheit é: ", fahrenheit, "°F")
+
+fimalgoritmo
