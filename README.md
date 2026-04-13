@@ -28,3 +28,16 @@ O desafio consistiu na criação de sistemas pelo VisuAlg para resolução de de
 
 ---
 
+## 📂 Estrutura do Repositório
+
+* `fluxogramas`: Representações visuais do fluxo de cada tarefa.
+* `pseudocodigos`: Arquivos contendo a lógica escrita de forma estruturada.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+* **VisuAlg:** Para desenvolvimento dos códigos.
+* **Draw.io:** Para os desenhos técnicos dos fluxogramas.
+
+---
