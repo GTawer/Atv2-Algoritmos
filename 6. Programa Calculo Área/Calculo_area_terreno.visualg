@@ -1,0 +1,30 @@
+algoritmo "Calculo Área de Terreno"
+
+// Disciplina: Lógica de Programação (LOPAL)
+
+// Professor: Raul Porto Lopes
+// Autor:Gabriel de Araujo Torres N°08
+// Data atual: 12/04/2026
+// Função: Calcular a área de um terreno retangular
+
+var
+  largura, comprimento, area: real
+
+inicio
+  // Entrada de dados
+  escreval("--- Calculadora de Área de Terreno ---")
+  escreva("Digite a largura do terreno (em metros): ")
+  leia(largura)
+  escreva("Digite o comprimento do terreno (em metros): ")
+  leia(comprimento)
+  limpatela
+
+  // Processamento
+  // Fórmula matemática: Area = largura * comprimento
+
+  area <- largura * comprimento
+
+  // Saída de resultados
+  escreval("A área total do terreno é: ", area, " metros quadrados.")
+
+fimalgoritmo
