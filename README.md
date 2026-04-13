@@ -37,7 +37,19 @@ O desafio consistiu na criação de sistemas pelo VisuAlg para resolução de de
 
 ## 🛠️ Ferramentas Utilizadas
 
-* **VisuAlg:** Para desenvolvimento dos códigos.
-* **Draw.io:** Para os desenhos técnicos dos fluxogramas.
+* **[Draw.io](https://app.diagrams.net/):** Para a criação dos **Fluxogramas**.
+* **[Visualg](https://visualg.com.br/):** Para a implementação dos algoritmos em **Portugol (.alg)**, permitindo a simulação real dos cálculos e desvios condicionais.
 
 ---
+
+* **Professores:** Raul Porto e Paulo Camargo
+* **Aluno:** Gabriel de Araujo Torres
+* **Data:** 07/04/2026 - 13/04/2026
+
+#### Projeto desenvolvido no SENAI A. Jacob Lafer.
+
+![Obrigado!](https://media.tenor.com/6ImmzuMLLOYAAAAj/scott-pilgrim-scot-pilgrim-vs-the-world.gif)
+
+
+<p align="center">
+</p>
